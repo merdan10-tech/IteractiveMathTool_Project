@@ -1,4 +1,4 @@
-<h1>Wipe - Disk Sanitization</h1>
+<h1>Interactive Math Tool</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
